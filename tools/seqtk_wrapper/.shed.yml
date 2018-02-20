@@ -1,0 +1,5 @@
+categories: [Sequence Analysis]
+description: Convert to FASTA (seqtk)
+long_description: long long description
+name: seqtk_wrapper
+owner: csavary
